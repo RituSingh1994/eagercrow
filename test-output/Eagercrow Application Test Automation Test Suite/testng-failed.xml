@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Eagercrow Application Test Automation Test Suite]">
+  <listeners>
+    <listener class-name="Utility.ExtentReportListeners"/>
+  </listeners>
+  <test name="Eagercrow App Test Cases">
+    <classes>
+      <class name="TestCases.ChairTestCases"/>
+    </classes>
+  </test> <!-- Eagercrow App Test Cases -->
+</suite> <!-- Failed suite [Eagercrow Application Test Automation Test Suite] -->

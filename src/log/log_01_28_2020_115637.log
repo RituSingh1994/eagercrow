@@ -1,0 +1,8 @@
+2020-01-28 11:56:19,130 [main] TestCases.Signinpage 
+  INFO  Browser opened
+2020-01-28 11:56:26,663 [main] TestCases.Signinpage 
+  INFO  Web Application Launched
+2020-01-28 11:56:26,675 [main] TestCases.Signinpage 
+  INFO  Implicit wait applied on the driver for 10 seconds
+2020-01-28 11:56:37,346 [main] TestCases.Signinpage 
+  INFO  Click operation performed on Department link

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Eagercrow Application Test Automation Test Suite">
+
+	<listeners>
+		<listener class-name="Utility.ExtentReportListeners"></listener>
+	</listeners>
+
+	<test name="Eagercrow App Test Cases">
+		<classes>
+			<class name="TestCases.ChairTestCases"></class>
+
+
+		</classes>
+	</test>
+</suite>

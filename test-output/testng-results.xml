@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Eagercrow Application Test Automation Test Suite" duration-ms="36022" started-at="2020-02-17T09:54:26Z" finished-at="2020-02-17T09:55:02Z">
+    <groups>
+    </groups>
+    <test name="Eagercrow App Test Cases" duration-ms="36022" started-at="2020-02-17T09:54:26Z" finished-at="2020-02-17T09:55:02Z">
+      <class name="TestCases.ChairTestCases">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:TestCases.ChairTestCases@6fd02e5]" name="initialization" is-config="true" duration-ms="24139" started-at="2020-02-17T15:24:26Z" finished-at="2020-02-17T15:24:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="ContactUsLinkAvailable()[pri:0, instance:TestCases.ChairTestCases@6fd02e5]" name="ContactUsLinkAvailable" duration-ms="2620" started-at="2020-02-17T15:24:50Z" finished-at="2020-02-17T15:24:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactUsLinkAvailable -->
+        <test-method status="PASS" signature="addingTheQuantityOfChair()[pri:0, instance:TestCases.ChairTestCases@6fd02e5]" name="addingTheQuantityOfChair" duration-ms="1128" started-at="2020-02-17T15:24:53Z" finished-at="2020-02-17T15:24:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingTheQuantityOfChair -->
+        <test-method status="PASS" signature="addtocartwithSignIn()[pri:0, instance:TestCases.ChairTestCases@6fd02e5]" name="addtocartwithSignIn" duration-ms="688" started-at="2020-02-17T15:24:54Z" finished-at="2020-02-17T15:24:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartwithSignIn -->
+        <test-method status="PASS" signature="addtocartwithoutSignIn()[pri:0, instance:TestCases.ChairTestCases@6fd02e5]" name="addtocartwithoutSignIn" duration-ms="864" started-at="2020-02-17T15:24:55Z" finished-at="2020-02-17T15:24:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartwithoutSignIn -->
+        <test-method status="PASS" signature="informationofalltheAvailableProducts()[pri:0, instance:TestCases.ChairTestCases@6fd02e5]" name="informationofalltheAvailableProducts" duration-ms="578" started-at="2020-02-17T15:24:56Z" finished-at="2020-02-17T15:24:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- informationofalltheAvailableProducts -->
+        <test-method status="PASS" signature="lowestPriceProduct()[pri:0, instance:TestCases.ChairTestCases@6fd02e5]" name="lowestPriceProduct" duration-ms="772" started-at="2020-02-17T15:24:56Z" finished-at="2020-02-17T15:24:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lowestPriceProduct -->
+        <test-method status="PASS" signature="totalChairsAvailable()[pri:0, instance:TestCases.ChairTestCases@6fd02e5]" name="totalChairsAvailable" duration-ms="382" started-at="2020-02-17T15:24:57Z" finished-at="2020-02-17T15:24:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalChairsAvailable -->
+        <test-method status="PASS" signature="viewDetailsofParticularChair()[pri:0, instance:TestCases.ChairTestCases@6fd02e5]" name="viewDetailsofParticularChair" duration-ms="609" started-at="2020-02-17T15:24:57Z" finished-at="2020-02-17T15:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewDetailsofParticularChair -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.ChairTestCases@6fd02e5]" name="tearDown" is-config="true" duration-ms="4189" started-at="2020-02-17T15:24:58Z" finished-at="2020-02-17T15:25:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.ChairTestCases -->
+    </test> <!-- Eagercrow App Test Cases -->
+  </suite> <!-- Eagercrow Application Test Automation Test Suite -->
+</testng-results>

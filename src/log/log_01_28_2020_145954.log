@@ -1,0 +1,6 @@
+2020-01-28 14:59:52,347 [main] TestCases.Signinpage 
+  INFO  Browser opened
+2020-01-28 14:59:54,548 [main] TestCases.Signinpage 
+  INFO  Web Application Launched
+2020-01-28 14:59:54,564 [main] TestCases.Signinpage 
+  INFO  Implicit wait applied on the driver for 10 seconds
